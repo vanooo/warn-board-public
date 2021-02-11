@@ -1,0 +1,21 @@
+{
+  "state_home": {
+    "create_warn": "✍️ create warn message",
+    "my_warn_list": "📖 my messages",
+    "subscribe": "subscribe",
+    "change_language": "change language"
+  },
+  "state_create_warn": {
+    "combine_warn": "Combine Warn"
+  },
+  "state_change_language": {
+    "en": "English",
+    "ua": "Українська"
+  },
+  "state_classify_warn": {
+    "car_road": "car / road",
+    "housing_municipal": "housing / municipal",
+    "emergency": "emergency",
+    "other": "other"
+  }
+}

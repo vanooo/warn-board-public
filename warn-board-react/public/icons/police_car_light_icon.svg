@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" id="emoji" style="height: 100%; width: 100%;" width="202px" height="202px">
+  <g class="ldl-scale" style="transform-origin: 50% 50%; transform: rotate(0deg) scale(1, 1);">
+    <g class="ldl-ani" style="transform-origin: 35.95px 34.5001px;">
+      <g class="ldl-layer">
+        <g class="ldl-ani" style="transform-origin: 36.4px 41.0001px; opacity: 1; animation: 0.219298s linear -0.219298s infinite normal forwards running blink-99f3e570-86bd-4a00-a2b5-fe2944d63f9b;">
+          <g id="color">
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <path d="M21.4,51V36A14.9585,14.9585,0,0,1,36.3,21h0A15.0887,15.0887,0,0,1,51.2,36V51" fill="#ea5a47" style="fill: rgb(234, 90, 71);"></path>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <path d="M21.4,51h30a4.9514,4.9514,0,0,1,5,5h0a4.9514,4.9514,0,0,1-5,5h-30a4.9514,4.9514,0,0,1-5-5h0A4.9514,4.9514,0,0,1,21.4,51Z" fill="#d0cfce" style="fill: rgb(208, 207, 206);"></path>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <path d="M51.4,36A14.9381,14.9381,0,0,0,36.6,21h0a14.7059,14.7059,0,0,0-4.2.6C41.8,25.4,42.7,44.8,42.8,51h8.7V36Z" fill="#d22f27" style="fill: rgb(210, 47, 39);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani" style="transform-origin: 35.95px 34.3px; opacity: 1; animation: 0.219298s linear -0.219298s infinite normal forwards running blink-99f3e570-86bd-4a00-a2b5-fe2944d63f9b;">
+          <g id="line">
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <line stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#000" fill="none" y2="18.8" y1="23.5" x2="13.1" x1="17.8" style="stroke: rgb(70, 70, 70);"></line>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <line stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#000" fill="none" y2="18.8" y1="23.5" x2="58.8" x1="54.1" style="stroke: rgb(70, 70, 70);"></line>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <line stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#000" fill="none" y2="8" y1="14" x2="36.4" x1="36.4" style="stroke: rgb(70, 70, 70);"></line>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <path d="M21.4,51V36A14.9585,14.9585,0,0,1,36.3,21h0A15.0887,15.0887,0,0,1,51.2,36V51" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#000" fill="none" style="stroke: rgb(70, 70, 70);"></path>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani">
+                <path d="M21.1,51H51.6a4.8011,4.8011,0,0,1,4.8,4.8h0a4.8011,4.8011,0,0,1-4.8,4.8H21.1a4.8011,4.8011,0,0,1-4.8-4.8h0A4.9353,4.9353,0,0,1,21.1,51Z" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#000" fill="none" style="stroke: rgb(70, 70, 70);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

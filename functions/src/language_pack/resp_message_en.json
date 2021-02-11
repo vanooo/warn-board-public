@@ -1,0 +1,8 @@
+{
+  "state_home": "Hi, below you can find a keyboard, please make a selection",
+  "state_create_warn": "Please send me photos, text description and location, i will combine them all together. To combine Warn click this link /combine_warn or a button below on a keyboard",
+  "state_change_language": "We are suporting this languages:",
+  "state_language_was_changed": "Language was changed",
+  "error_unsupported_content": "sorry, i'm not supporting this type of message",
+  "error_state_not_recognised": "We are working on this functionality"
+}
